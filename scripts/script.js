@@ -7,8 +7,8 @@ function clean() {
   document.getElementById('tela').innerHTML = "";
 }
 function back() {
-  Document.getElementById('tela').substring= "0, document.getElementById('tela').innerHTML= -1");
+  document.getElementById('tela').innerHTML= "";
 }
 function result() {
-  document.getElementById('tela').innerHTML= eval();
+  document.getElementById('tela').innerHTML = eval();
 }
