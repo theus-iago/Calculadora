@@ -38,6 +38,12 @@ button {
 button:active {
   background-color:black;
 }
+#botao {
+  background-color:orange;
+}
+#botao:active {
+  background-color:darkorange;
+}
 #tela {
   background-color:white;
   color:black;
