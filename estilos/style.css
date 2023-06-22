@@ -38,10 +38,12 @@ button {
   color:black;
   height:25px;
   text-align:end;
+  font-size:25pt;
   padding:16px;
   margin-top:10px;
   margin-bottom:10px;
 }
 footer {
+  margin-top:10px;
   text-align:center;
 }
