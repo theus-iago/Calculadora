@@ -35,13 +35,13 @@ button {
   color:white;
   border:none;
 }
-button:hover {
+button:active {
   background-color:black;
 }
 #tela {
   background-color:white;
   color:black;
-  height:25px;
+  height:15px;
   text-align:end;
   font-size:25px;
   padding:5px;
