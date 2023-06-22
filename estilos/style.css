@@ -13,7 +13,7 @@ body {
   }
 
 .container {
-background-color:black;
+background-color:rgba(0,0,0,0.8);
 border-radius:25px;
 height:430px;
 position:absolute;
@@ -27,19 +27,24 @@ table {
   margin-left: 10px;
 }
 button {
-  font-size:15pt;
-  padding:5px;
+  font-size:25px;
+  cursor:pointer;
   height:50px;
   width:50px;
+  background-color:rgb(31,31,31);
+  color:white;
+  border:none;
 }
-
+button:hover {
+  background-color:black;
+}
 #tela {
   background-color:white;
   color:black;
   height:25px;
   text-align:end;
-  font-size:25pt;
-  padding:16px;
+  font-size:25px;
+  padding:5px;
   margin-top:10px;
   margin-bottom:10px;
 }
