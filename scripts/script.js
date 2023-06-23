@@ -1,3 +1,5 @@
+ alert('Para ter acesso ao repositório deste projeto acesse: https://theus-iago.github.io/Calculadora/');
+
 tela = document.getElementById('tela');
 
 function insert(num) {
