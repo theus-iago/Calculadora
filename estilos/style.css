@@ -24,7 +24,7 @@ padding:16px;
 }
 
 table {
-  margin-left: 10px;
+  margin-left: 2.5px;
 }
 button {
   font-size:25px;
@@ -35,7 +35,7 @@ button {
   color:white;
   border:none;
 }
-button:ac{
+button:active {
   background-color:black;
 }
 #botao {
